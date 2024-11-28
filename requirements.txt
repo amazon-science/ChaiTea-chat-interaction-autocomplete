@@ -1,0 +1,13 @@
+python-Levenshtein
+rouge-score
+evaluate
+bert_score
+s3fs
+docker
+pandas
+tqdm
+datasets
+langdetect
+torch
+transformers
+evaluate
